@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My Name is Garrett, nice to meet you. This is my current README.md. More info will be addded along my journey. Thanks for stopping by.
 
